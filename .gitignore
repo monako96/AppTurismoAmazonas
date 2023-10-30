@@ -1,0 +1,18 @@
+# Flutter/Dart specific
+.dart_tool/
+.pub/
+/build/
+/captures/
+/device_config.json
+/flutter_assets/
+/flutter_test/
+/packages/
+/test/
+/web/
+/generated/
+/ios/Flutter/Flutter.podspec
+/.idea/
+/ios/Flutter/AppFrameworkInfo.plist
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.metadata
